@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6e41eee.chunk.css",
-    "main.js": "/static/js/main.a42886a5.chunk.js",
-    "main.js.map": "/static/js/main.a42886a5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8fb92931.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8fb92931.js.map",
-    "static/js/2.ff149514.chunk.js": "/static/js/2.ff149514.chunk.js",
-    "static/js/2.ff149514.chunk.js.map": "/static/js/2.ff149514.chunk.js.map",
-    "static/js/3.8b315b46.chunk.js": "/static/js/3.8b315b46.chunk.js",
-    "static/js/3.8b315b46.chunk.js.map": "/static/js/3.8b315b46.chunk.js.map",
+    "main.css": "/static/css/main.fb668d8f.css",
+    "main.js": "/static/js/main.2647355c.js",
+    "static/css/280.0810b510.chunk.css": "/static/css/280.0810b510.chunk.css",
+    "static/js/280.9a3351d1.chunk.js": "/static/js/280.9a3351d1.chunk.js",
+    "static/js/377.cb21d76f.chunk.js": "/static/js/377.cb21d76f.chunk.js",
+    "static/media/nintendo_jumbotron.jpg": "/static/media/nintendo_jumbotron.3e114698887b7f8f9692.jpg",
+    "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
-    "static/css/main.f6e41eee.chunk.css.map": "/static/css/main.f6e41eee.chunk.css.map",
-    "static/js/2.ff149514.chunk.js.LICENSE.txt": "/static/js/2.ff149514.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/nintendo_jumbotron.3e114698.jpg"
+    "main.fb668d8f.css.map": "/static/css/main.fb668d8f.css.map",
+    "main.2647355c.js.map": "/static/js/main.2647355c.js.map",
+    "280.0810b510.chunk.css.map": "/static/css/280.0810b510.chunk.css.map",
+    "280.9a3351d1.chunk.js.map": "/static/js/280.9a3351d1.chunk.js.map",
+    "377.cb21d76f.chunk.js.map": "/static/js/377.cb21d76f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fb92931.js",
-    "static/js/2.ff149514.chunk.js",
-    "static/css/main.f6e41eee.chunk.css",
-    "static/js/main.a42886a5.chunk.js"
+    "static/css/main.fb668d8f.css",
+    "static/js/main.2647355c.js"
   ]
 }
